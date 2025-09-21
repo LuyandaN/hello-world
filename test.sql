@@ -1,7 +1,3 @@
 select *
   from dual
- where 1=2;
-
-select *
-  from dual
- where 1=1;
+ where 1=5;
