@@ -1,2 +1,3 @@
 select *
-  from dual;
+  from dual
+ where 1=1;
