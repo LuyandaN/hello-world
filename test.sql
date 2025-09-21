@@ -1,3 +1,3 @@
 select *
   from dual
- where 1=5;
+ where 1=1;
